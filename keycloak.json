@@ -1,0 +1,10 @@
+{
+  "realm": "master",
+  "bearer-only": true,
+  "auth-server-url" : "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "keycloak-test",
+  "credentials": {
+    "secret": "6c25f74d-3ba2-484c-95b3-c8eab1c2289f"
+  }
+}
